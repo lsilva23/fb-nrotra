@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "518132283085",
+    "firebase_url": "https://nrotracker.firebaseio.com",
+    "project_id": "nrotracker",
+    "storage_bucket": "nrotracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518132283085:android:06fa233bb2228684",
+        "android_client_info": {
+          "package_name": "com.ericsson.findfrete.asp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518132283085-tejj8pbi29m3l882gn0p6o4s1sdna41c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCufrpFfh9U69e4GWQmZeocfgyV5r8KtHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
